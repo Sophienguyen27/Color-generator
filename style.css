@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+}
+.monkey {
+  width: 80%;
+  margin: 0 auto;
+text-align: center;
+}
+
+.generate {
+text-align: center;
+}
